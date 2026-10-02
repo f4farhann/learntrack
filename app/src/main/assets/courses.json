@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "lessons": [
+      { "id": 101, "title": "Introduction", "completed": true },
+      { "id": 102, "title": "Variables & Data Types", "completed": true },
+      { "id": 103, "title": "Functions", "completed": false },
+      { "id": 104, "title": "OOP", "completed": false }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "lessons": [
+      { "id": 201, "title": "What is GenAI", "completed": true },
+      { "id": 202, "title": "Prompt Engineering", "completed": false },
+      { "id": 203, "title": "Building with LLMs", "completed": false }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "lessons": [
+      { "id": 301, "title": "HTML & CSS", "completed": false },
+      { "id": 302, "title": "JavaScript", "completed": false },
+      { "id": 303, "title": "Backend Basics", "completed": false },
+      { "id": 304, "title": "Databases", "completed": false }
+    ]
+  }
+]
